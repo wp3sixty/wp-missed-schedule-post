@@ -1,0 +1,14 @@
+{
+    "name": "newvariable/wp-missed-schedule-post",
+    "description": "Auto publish future post missed by WordPress cron",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "NewVariable",
+            "email": "wordpress@newvariable.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
