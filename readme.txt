@@ -1,9 +1,9 @@
 === WP Missed Schedule Posts ===
-Contributors: newvariable
+Contributors: newvariable,wp3sixty,sanketparmar,divyarajmasani,shaileesheth
 Tags: future, future posts, posts, scheduled, scheduled posts, scheduled post, cron, cron job, scheduled, missed, missed posts
 Requires at least: 3.6
-Tested up to: 4.7.3
-Stable tag: 1.0
+Tested up to: 4.7.4
+Stable tag: 1.1
 License: GPLv2 or later
 
 Auto publish future/scheduled posts missed by WordPress cron

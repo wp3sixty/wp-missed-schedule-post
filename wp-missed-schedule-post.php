@@ -5,7 +5,7 @@ Description: Auto publish future post missed by WordPress cron
 Author: newvariable
 Contributors: newvariable,wp3sixty,sanketparmar,divyarajmasani,shaileesheth
 Author URI: https://newvariable.com
-Version: 1.0
+Version: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
  */
