@@ -2,7 +2,7 @@
 Contributors: newvariable,wp3sixty,sanketparmar,divyarajmasani,shaileesheth
 Tags: future, future posts, posts, scheduled, scheduled posts, scheduled post, cron, cron job, scheduled, missed, missed posts
 Requires at least: 3.6
-Tested up to: 4.7.4
+Tested up to: 4.8
 Stable tag: 1.1
 License: GPLv2 or later
 
@@ -18,3 +18,5 @@ Install plugin and it will start working
 
 = 1.0 [Mar 28, 2017] =
 * Initial release
+= 1.1 [July 20, 2017] =
+* Tested with WordPress 4.8
